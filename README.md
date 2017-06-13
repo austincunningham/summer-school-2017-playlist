@@ -1,4 +1,4 @@
-Welcome to the Glitch Template 1
+A Simple Express app 
 ================================
 
 A starter project for learning Glitch.
